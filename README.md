@@ -50,9 +50,10 @@ C to T	13	ACC
 C to T	13	ACC
 C to T	6	CCC
 C to T	13	ACC
+```
 
 C_T_Freq.txt
-
+```
 Spanning_nucleotides	Frequency
 ACC	4
 CCC	2
