@@ -15,12 +15,14 @@ This will output four files:
 Input files:
 
 Reference file:
+```
 >
 ATG
 CCCGT
 TAACCTA
-
+```
 Sequence file:
+```
 >
 A
 TA
@@ -35,11 +37,12 @@ ACTGT
 >
 CAACC
 TGTTGACTGG
+```
 
 Output files:
 
 C_T_mutations.txt  
-
+```
 Mutation	Position	Spanning_nucleotides
 C to T	6	CCC
 C to T	13	ACC
@@ -53,3 +56,4 @@ C_T_Freq.txt
 Spanning_nucleotides	Frequency
 ACC	4
 CCC	2
+```
